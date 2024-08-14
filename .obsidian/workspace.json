@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "247953596a37b907",
+    "type": "split",
+    "children": [
+      {
+        "id": "c48fe96bb9947d48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f87fbad6a14aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "610d88c4e93671bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c672605584c6e89e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9022013cc3c43bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeeab34c4b314c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612e1a1e09e7c07b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "936db7cc5ed6093a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2b6e6603a6bc496",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3eb4fc1ebef6f3bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c19b95887a0e367b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3f5d1990ab4b77c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf6043ae5ba57c8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94e7c8b86f7aadf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6bc8793747448815",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "612e1a1e09e7c07b",
+  "lastOpenFiles": [
+    "private",
+    "templates/md/basic.md",
+    "templates/md",
+    "templates/basic.md",
+    "templates/js/extract-timestamp-from-uuid.js",
+    "templates/js/uuid-v7.js",
+    "templates/js",
+    "templates",
+    "assets",
+    "README.md"
+  ]
+}
