@@ -1,5 +1,4 @@
-This is your new *vault*.
+# obsidian-minimal-boilerplate
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+1. Download this repository as Zip.
+2. Open as Obsidian vault
